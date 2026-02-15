@@ -1,4 +1,4 @@
-# 🛡️ ATLAS - AI-Powered Misinformation Fighter
+# 🛡️ ATLAS
 
 > **Autonomous AI Agent System for Evidence-Based Fact-Checking**
 
