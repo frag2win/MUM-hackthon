@@ -99,7 +99,6 @@ python server.py
 ```
 
 **Access:**
-- **UI:** http://127.0.0.1:8000
 - **Docs:** See `ATLAS_COMPREHENSIVE_PRD.md` for the full 21k-word documentation.
 
 ---
@@ -115,4 +114,4 @@ python server.py
 
 **Built for truth and transparency.**
 
-*Last Updated: November 29, 2025*
+*Last Updated: 26/04/2026*
