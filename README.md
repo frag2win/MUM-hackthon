@@ -8,9 +8,9 @@
 
 ---
 
-## ⚡ The Elevator Pitch
+**INFO88
 
-**ATLAS is not a simple chatbot wrapper.** It is an **autonomous agent** that combats misinformation by orchestrating structured debates between **8 specialized AI personas**. It autonomously gathers evidence via a **multi-tier web scraper**, analyzes credibility using a **weighted 4-metric engine**, and maintains **long-term memory** via a custom **RAG architecture**.
+ **Autonomous agent** that combats misinformation by orchestrating structured debates between **8 specialized AI personas**. It autonomously gathers evidence via a **multi-tier web scraper**, analyzes credibility using a **weighted 4-metric engine**, and maintains **long-term memory** via a custom **RAG architecture**.
 
 ---
 
